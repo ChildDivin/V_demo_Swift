@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e270955a-55c5-ec4b-8cbd-76a122897e82",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e270955a-55c5-ec4b-8cbd-76a122897e82" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e270955a-55c5-ec4b-8cbd-76a122897e82" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD634D5D-AA26-4BB6-AB58-D93D13FAD0D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e270955a-55c5-ec4b-8cbd-76a122897e82" : "SVN_Lyst\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Lyst",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "V1\/Lyst.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.100:8443\/svn\/Lyst_IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e270955a-55c5-ec4b-8cbd-76a122897e82"
+    }
+  ]
+}
